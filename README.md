@@ -19,7 +19,47 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<table width="100%" height="100%" align="center">
+   <tr>
+      <td align="center">
+        <img alt="git" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+     </td>
+     <td align="center">
+      <img alt="linux" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+     </td>
+     <td align="center">
+      <img alt="jenkins" height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+     </td>
+     <td align="center">
+      <img alt="docker" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+     </td>
+     <td align="center">
+      <img alt="kubernetes" height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+     </td>
+     <td align="center">
+      <img alt="terraform" height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+     </td>
+     <td align="center">
+      <img alt="ansible" height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg">
+     </td>
+     <td align="center">
+      <img alt="maven" height="64px" width="64px" src="https://maven.apache.org/images/maven-logo-black-on-white.png">
+     </td>
+     <td align="center">
+      <img alt="sonarqube" height="64px" width="64px" src="https://www.sonarsource.com/logos/sonarqube-header.svg">
+     </td>
+     <td align="center">
+      <img alt="aws" height="64px" width="64px" src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/powered-by-aws-64px.8a038e41dd8e59f3a78aa1acb5f5fe9e24d2e6a6.png">
+     </td>
+     <td align="center">
+      <img alt="python" height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     </td>
+     <td align="center">
+      <img alt="azure" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+     </td>
+   </tr>
+ </table>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunks1&show_icons=true&locale=en&layout=compact" alt="tharunks1" /></p>
 
