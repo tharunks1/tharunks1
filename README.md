@@ -19,72 +19,50 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<head>
-    <style>
-        table {
-            width: 100%;
-            height: 100%;
-            border-collapse: separate;
-            border-spacing: 10px;
-            border-radius: 10px;
-            overflow: hidden;
-            background-color: #f0f0f0; /* Set a light background color */
-        }
-        td {
-            padding: 10px;
-            text-align: center;
-        }
-        img {
-            display: block; /* Ensure images are centered within their cells */
-            margin: 0 auto;
-        }
-    </style>
-</head>
-<body>
-    <table>
-       <tr>
-          <td>
-            <img alt="linux" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-         </td>
-         <td>
-            <img alt="git" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-         </td>
-         <td>
-          <img alt="maven" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
-         </td>
-         <td>
-            <img alt="sonarqube" height="80px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg">
-         </td>
-         <td>
-          <img alt="jenkins" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-         </td>
-       </tr>
-       <tr>
-         <td>
-          <img alt="aws" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-         </td>
-         <td>
-          <img alt="azure" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-         </td>
-         <td>
-          <img alt="ansible" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg">
-         </td>
-         <td>
-          <img alt="python" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-         </td>
-         <td>
-          <img alt="terraform" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
-         </td>
-       </tr>
-       <tr>
-         <td>
-          <img alt="docker" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-         </td>
-         <td>
-          <img alt="kubernetes" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-         </td>
-       </tr>
-     </table>
+<table width="100%" height="100%" align="center">
+   <tr>
+      <td align="center">
+        <img alt="linux" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+     </td>
+     <td align="center">
+        <img alt="git" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+     </td>
+     <td align="center">
+      <img alt="maven" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
+     </td>
+     <td align="center">
+        <img alt="sonarqube" height="80px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg">
+     </td>
+     <td align="center">
+      <img alt="jenkins" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+     </td>
+   </tr>
+   <tr>
+     <td align="center">
+      <img alt="aws" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+     </td>
+     <td align="center">
+      <img alt="azure" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+     </td>
+     <td align="center">
+      <img alt="ansible" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg">
+     </td>
+     <td align="center">
+      <img alt="python" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     </td>
+     <td align="center">
+      <img alt="terraform" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+     </td>
+   </tr>
+   <tr>
+     <td align="center">
+      <img alt="docker" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+     </td>
+     <td align="center">
+      <img alt="kubernetes" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+     </td>
+   </tr>
+ </table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunks1&show_icons=true&locale=en&layout=compact" alt="tharunks1" /></p>
 
