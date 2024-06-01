@@ -50,6 +50,9 @@
      <td align="center">
       <img alt="azure" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
      </td>
+     <td align="center">
+      <img alt="aws" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+     </td>
    </tr>
  </table>
 
