@@ -22,40 +22,33 @@
 <table width="100%" height="100%" align="center">
    <tr>
       <td align="center">
-        <img alt="git" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+        <img alt="git" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
      </td>
      <td align="center">
-      <img alt="linux" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+      <img alt="linux" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
      </td>
      <td align="center">
-      <img alt="jenkins" height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+      <img alt="jenkins" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
      </td>
      <td align="center">
-      <img alt="docker" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+      <img alt="docker" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
      </td>
      <td align="center">
-      <img alt="kubernetes" height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+      <img alt="kubernetes" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+     </td>
+   </tr>
+   <tr>
+     <td align="center">
+      <img alt="terraform" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
      </td>
      <td align="center">
-      <img alt="terraform" height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+      <img alt="ansible" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg">
      </td>
      <td align="center">
-      <img alt="ansible" height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg">
+      <img alt="python" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      </td>
      <td align="center">
-      <img alt="maven" height="64px" width="64px" src="https://maven.apache.org/images/maven-logo-black-on-white.png">
-     </td>
-     <td align="center">
-      <img alt="sonarqube" height="64px" width="64px" src="https://www.sonarsource.com/logos/sonarqube-header.svg">
-     </td>
-     <td align="center">
-      <img alt="aws" height="64px" width="64px" src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/powered-by-aws-64px.8a038e41dd8e59f3a78aa1acb5f5fe9e24d2e6a6.png">
-     </td>
-     <td align="center">
-      <img alt="python" height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     </td>
-     <td align="center">
-      <img alt="azure" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+      <img alt="azure" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
      </td>
    </tr>
  </table>
