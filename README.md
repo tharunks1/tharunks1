@@ -28,7 +28,7 @@
         <img alt="git" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
      </td>
      <td align="center">
-      <img alt="maven" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
+      <img alt="maven" height="80px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
      </td>
      <td align="center">
         <img alt="sonarqube" height="80px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg">
