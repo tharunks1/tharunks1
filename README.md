@@ -58,7 +58,7 @@
      <td align="center">
       <img alt="docker" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
      </td>
-     <td align="center">
+     <td align="center" colspan="2">
       <img alt="kubernetes" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
      </td>
    </tr>
