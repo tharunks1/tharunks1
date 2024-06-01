@@ -27,16 +27,12 @@
      <td align="center">
         <img alt="git" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
      </td>
-   </tr>
-   <tr>
      <td align="center">
       <img alt="maven" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
      </td>
      <td align="center">
         <img alt="sonarqube" height="80px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg">
      </td>
-   </tr>
-   <tr>
      <td align="center">
       <img alt="jenkins" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
      </td>
@@ -51,16 +47,12 @@
      <td align="center">
       <img alt="ansible" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg">
      </td>
-   </tr>
-   <tr>
      <td align="center">
       <img alt="python" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      </td>
      <td align="center">
       <img alt="terraform" height="80px" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
      </td>
-   </tr>
-   <tr>
      <td align="center">
       <img alt="docker" height="80px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
      </td>
@@ -69,7 +61,6 @@
      </td>
    </tr>
  </table>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunks1&show_icons=true&locale=en&layout=compact" alt="tharunks1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharunks1&show_icons=true&locale=en" alt="tharunks1" /></p>
